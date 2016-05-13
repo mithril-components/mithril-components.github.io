@@ -1,0 +1,11 @@
+{
+    "name": "mithril-components",
+    "version": "1.0.0", 
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "bootstrap-less": "3.3.6"
+    }
+}
